@@ -1,5 +1,7 @@
 # Problema 2 (5 puntos)
 
+Enunciado del problema:
+
 Nos han contactado desde la famosísima compañía *TeLaS* de fabricación de *vehículos eléctricos* y textiles. Nos piden que creemos un modelo digital para su nuevo vehículo el Vereda3000 GT.
 
 Para garantizar la compatibilidad con todos sus sistemas, nuestra clase debe implementar la siguiente interfaz:
